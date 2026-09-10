@@ -1,2 +1,203 @@
-# violaApp
+# Viola 🌸
 AI-powered women's health guidance platform
+### Your guide to understanding female health.
+
+Viola is an AI-powered women's health platform designed to help women understand their symptoms, find reliable health information, and know what to do next.
+
+From period pain and pregnancy symptoms to intimate health concerns and menopause, Viola aims to make women's health information easier to understand, less overwhelming, and more accessible.
+
+> **Clear answers. Private guidance. Better care.**
+
+## 💡 Why Viola?
+
+We've all been there.
+
+Googling a question we're too embarrassed to ask our friends, family, or even a doctor.
+
+- "Is this period pain normal?"
+- "Why does it hurt during sex?"
+- "Does this discharge look normal?"
+- "I've just had unprotected sex ; what should I do?"
+- "Why am I bleeding between periods?"
+- "When should I actually see a doctor?"
+
+The internet contains an enormous amount of health information, but finding a trustworthy answer can be overwhelming.
+
+Viola is being built to bridge that gap.
+
+Instead of searching through dozens of websites, Viola aims to provide clear, personalised health guidance and help users understand when they may need professional medical care.
+
+---
+
+## 🎯 Our Mission
+
+Women's health deserves better.
+
+For generations, women have experienced symptoms that have been dismissed, misunderstood, or simply not researched enough.
+
+Viola aims to create a trusted digital space where women can:
+
+- Understand their bodies
+- Ask sensitive questions without embarrassment
+- Track symptoms and health patterns
+- Find reliable, evidence-based information
+- Understand what may require medical attention
+- Prepare for conversations with healthcare professionals
+- Navigate the healthcare system with greater confidence
+
+Our long-term vision is to support women throughout every stage of life - from their first period through pregnancy, postpartum, reproductive health, and menopause.
+
+---
+
+## 🤖 What Viola Does
+
+Viola is being developed as an AI-powered health guidance companion.
+
+A user might ask:
+
+> "My period pain is excruciating. Is this normal?"
+
+or:
+
+> "It hurts when my partner penetrates deeply. Should I be worried?"
+
+Viola will ask relevant follow-up questions and provide information about:
+
+**What may be common**
+
+What symptoms can sometimes occur normally and what factors may contribute to them.
+
+**What to monitor**
+
+Changes, patterns, or additional symptoms that may be useful to keep track of.
+
+**What you can do**
+
+General, low-risk steps that may help depending on the situation.
+
+**When to seek care**
+
+Clear guidance about when a user should consider speaking to a GP, pharmacist, sexual health service, maternity service, or seeking urgent/emergency care.
+
+### Important
+
+Viola is **not intended to diagnose medical conditions or replace a healthcare professional.**
+
+The product is being designed with safety, clinical oversight, evidence, privacy, and appropriate escalation in mind.
+
+---
+
+## 🩷 Core Features
+
+The initial product vision includes:
+
+- 💬 AI symptom guidance
+- 🩸 Period and symptom tracking
+- 📖 Women's health education
+- 📝 Personal health history and timelines
+- 🏥 Guidance on when and where to seek care
+- 👩🏽‍⚕️ GP appointment preparation
+- 🔐 Privacy-focused health information management
+- 👥 Community-driven product development
+
+Future versions may explore additional features such as pregnancy support, menopause guidance, image-based symptom information, and healthcare-provider integration.
+
+---
+
+## 🚀 Current Status
+
+Viola is currently an **early-stage prototype**.
+
+This project is being built in public and shaped by conversations with the women who may eventually use it.
+
+We are currently exploring:
+
+- What health questions women struggle to get answers to
+- Which features would provide the most value
+- How AI can safely support health information and navigation
+- How Viola can support underserved communities
+- How the product could eventually work alongside existing healthcare services
+
+The goal is not to build an app based on assumptions.
+
+**We want to build Viola with the people it is intended to serve.**
+
+---
+
+## 🧪 Product Development
+
+We are actively looking for:
+
+- Early testers
+- Women's health advocates
+- Healthcare professionals
+- Researchers
+- Designers
+- Developers
+- People with lived experience of women's health issues
+
+If you have an idea for a feature or have experienced a women's health issue that you struggled to understand, we'd love to hear from you.
+
+---
+
+## 🔒 Privacy & Data
+
+Women's health information is highly sensitive.
+
+Privacy and responsible handling of health data are fundamental to Viola's development.
+
+The project will consider relevant data protection and healthcare requirements, including UK data protection law, security, consent, data minimisation, and appropriate handling of sensitive health information.
+
+---
+
+## ⚠️ Disclaimer
+
+Viola is an early-stage prototype and is **not a medical device, diagnostic service, or substitute for professional medical advice.**
+
+Information generated by the prototype should not be relied upon for diagnosing or treating a medical condition.
+
+If you are experiencing severe, worsening, or potentially life-threatening symptoms, seek appropriate professional medical care or emergency assistance.
+
+---
+
+## 🛠️ Technology
+
+This project is currently being developed using:
+
+As the project develops, this section will document the technical architecture and key technologies used by Viola.
+
+## 🌱 Building Viola in Public
+
+Follow the journey and help shape the product.
+
+Instagram: **@askviola**
+
+We're asking women:
+
+> **What is something about your body you've worried about but felt too embarrassed to ask?**
+
+Your answer could become the next feature.
+
+---
+
+## 🤝 Contributing
+
+Viola is currently an early-stage project.
+
+If you are interested in contributing, collaborating, testing the prototype, or sharing expertise in women's health, AI, healthcare, research, or technology, please get in touch.
+
+More contribution guidelines will be added as the project develops.
+
+---
+
+## 💜 The Vision
+
+Viola started with a simple belief:
+
+**No woman should have to suffer in silence simply because she doesn't know what's normal.**
+
+We want to make understanding your health easier, safer, and less frightening.
+
+From your first period to pregnancy, postpartum health, reproductive health, intimate health, and menopause.
+
+**Viola is here to help women feel informed, heard, and cared for.**
