@@ -3,7 +3,8 @@ Your guide to understanding female health.
 
 Viola is an AI-powered women's health platform designed to help women understand their symptoms, find reliable health information, and know what to do next.
 
-From period pain and pregnancy symptoms to intimate health concerns and menopause, Viola aims to make women's health information easier to understand, less overwhelming, and more accessible.
+From period pain and pregnancy symptoms to intimate health concerns and menopause.
+Viola aims to make women's health information easier to understand, less overwhelming, and more accessible.
 
 > **Clear answers. Private guidance. Better care.**
 
