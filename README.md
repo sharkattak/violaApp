@@ -1,6 +1,5 @@
-# Viola 🌸
-AI-powered women's health guidance platform
-### Your guide to understanding female health.
+## Viola 🌸
+Your guide to understanding female health.
 
 Viola is an AI-powered women's health platform designed to help women understand their symptoms, find reliable health information, and know what to do next.
 
@@ -8,14 +7,13 @@ From period pain and pregnancy symptoms to intimate health concerns and menopaus
 
 > **Clear answers. Private guidance. Better care.**
 
-## 💡 Why Viola?
+💡 Why Viola?
 
 We've all been there.
 
 Googling a question we're too embarrassed to ask our friends, family, or even a doctor.
 
 - "Is this period pain normal?"
-- "Why does it hurt during sex?"
 - "Does this discharge look normal?"
 - "I've just had unprotected sex ; what should I do?"
 - "Why am I bleeding between periods?"
@@ -26,8 +24,6 @@ The internet contains an enormous amount of health information, but finding a tr
 Viola is being built to bridge that gap.
 
 Instead of searching through dozens of websites, Viola aims to provide clear, personalised health guidance and help users understand when they may need professional medical care.
-
----
 
 ## 🎯 Our Mission
 
@@ -47,8 +43,6 @@ Viola aims to create a trusted digital space where women can:
 
 Our long-term vision is to support women throughout every stage of life - from their first period through pregnancy, postpartum, reproductive health, and menopause.
 
----
-
 ## 🤖 What Viola Does
 
 Viola is being developed as an AI-powered health guidance companion.
@@ -56,10 +50,6 @@ Viola is being developed as an AI-powered health guidance companion.
 A user might ask:
 
 > "My period pain is excruciating. Is this normal?"
-
-or:
-
-> "It hurts when my partner penetrates deeply. Should I be worried?"
 
 Viola will ask relevant follow-up questions and provide information about:
 
